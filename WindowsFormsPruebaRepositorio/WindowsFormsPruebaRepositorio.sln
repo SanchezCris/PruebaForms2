@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsPruebaRepositorio", "WindowsFormsPruebaRepositorio\WindowsFormsPruebaRepositorio.csproj", "{70F0D2EC-43BD-4646-878B-2C1954FE2E87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70F0D2EC-43BD-4646-878B-2C1954FE2E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F0D2EC-43BD-4646-878B-2C1954FE2E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F0D2EC-43BD-4646-878B-2C1954FE2E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F0D2EC-43BD-4646-878B-2C1954FE2E87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02431115-2E3D-4088-B4BD-1FE110A469F5}
+	EndGlobalSection
+EndGlobal
